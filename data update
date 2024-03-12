@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "author": "john_doe",
+    "author_img": "https://i.ibb.co/8Nn65jd/images-2.jpg",
+    "cover_img": "https://i.ibb.co/Vx9wVch/images-2.jpg",
+    "title": "The Art of Programming",
+    "posted_date": "2024-03-12",
+    "reading_time": 10,
+    "hashtags": ["programming", "coding", "tech"]
+  },
+  {
+    "id": 2,
+    "author": "jane_smith",
+    "author_img": "https://i.ibb.co/9HgFqCW/images-1.jpg",
+    "cover_img": "https://i.ibb.co/SmvW0JK/images-1.jpg",
+    "title": "Exploring AI and Machine Learning",
+    "posted_date": "2024-03-11",
+    "reading_time": 15,
+    "hashtags": ["ai", "machine_learning", "data_science"]
+  },
+  {
+    "id": 3,
+    "author": "alex_carter",
+    "author_img": https://i.ibb.co/27vmxLj/images.jpg",
+    "cover_img": "https://i.ibb.co/vYFJpQ8/images.jpg",
+    "title": "Traveling the World: A Photographic Journey",
+    "posted_date": "2024-03-10",
+    "reading_time": 20,
+    "hashtags": ["travel", "photography"]
+  },
+  {
+    "id": 4,
+    "author": "emma_jones",
+    "author_img": "https://i.ibb.co/bLtBc8v/download-1.jpg",
+    "cover_img": "https://i.ibb.co/Cv510tj/download-2.jpg",
+    "title": "Healthy Living: Mind and Body",
+    "posted_date": "2024-03-09",
+    "reading_time": 12,
+    "hashtags": ["health", "wellness", "mindfulness"]
+  },
+  {
+    "id": 5,
+    "author": "sam_wilson",
+    "author_img": "https://i.ibb.co/cNZQqBS/download.jpg",
+    "cover_img": "https://i.ibb.co/s6kG1jg/download-1.jpg",
+    "title": "The Future of Space Exploration",
+    "posted_date": "2024-03-08",
+    "reading_time": 18,
+    "hashtags": ["space", "exploration", "science"]
+  },
+  {
+    "id": 6,
+    "author": "lisa_miller",
+    "author_img": "https://i.ibb.co/pfYjJQh/Fillipovic-Jill-cr-Gary-He.jpg",
+    "cover_img": "https://i.ibb.co/c1dV4gm/download.jpg",
+    "title": "Cooking Adventures: Culinary Delights",
+    "posted_date": "2024-03-07",
+    "reading_time": 14,
+    "hashtags": ["cooking", "food", "culinary"]
+  }
+]
